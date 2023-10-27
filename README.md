@@ -34,3 +34,5 @@ Color specifications are color names such as "red" and "light green". Please spe
 Color name: https://www.colordic.org/
 ```
 
+Source code:
+https://github.com/tanabee/google-translation-api/blob/master/code.js

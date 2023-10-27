@@ -4,18 +4,18 @@
 Below is a list of what you need to set up:
 1. Step 1: Create a new script at https://script.google.com/
 - Delete the default code
-- paste code & deploy the code with Web app (Who has access: anyone)
-- Save your Deployment ID (xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+- paste the code & deploy it as a Web App (Set access to: anyone)
+- Save the Deployment ID  (xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
 2. Step 2: Copy the following URL: 
 ```
 https://sayonari.coresv.com/ninshikiChan/text.html?recog=id&trans=en&bgcolor=green&size=20&weight=900&color=white&st_color=blue&st_width=3&v_align=bottom&gas_key=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
 ```
-- replace the gas_key=xxxx with the deployment id you saved
-3. Add to your OBS
-- Select source
-- Choose windows capture
-- add filter chroma key
-- done
+- Replace "gas_key=xxxx" with the Deployment ID you saved.
+3. How to Add to your OBS
+- Select the source
+- Choose "Window Capture
+- Add a Chroma Key filter
+- You're done!
 
 # HOW TO CHANGE SETTINGS
 ```

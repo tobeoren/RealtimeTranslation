@@ -4,7 +4,8 @@
 Below is a list of what you need to set up:
 1. Step 1: Create a new script at https://script.google.com/
 - Delete the default code
-- paste the code & deploy it as a Web App (Set access to: anyone)
+- Paste the code & save it
+- Deploy the code as a Web App (Set access to: anyone)
 - Save the Deployment ID  (xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
 2. Step 2: Copy the following URL: 
 ```

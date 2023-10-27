@@ -18,6 +18,7 @@ https://sayonari.coresv.com/ninshikiChan/text.html?recog=id&trans=en&bgcolor=gre
 - done
 
 # HOW TO CHANGE SETTINGS
+```
 Speech recognition language        : recog = id
 Translation destination language   : trans = en
 font                               : Meiryo
@@ -31,3 +32,5 @@ Character position                 : v_align=bottom (superscript: top, subscript
 
 Color specifications are color names such as "red" and "light green". Please specify with.
 Color name: https://www.colordic.org/
+```
+
